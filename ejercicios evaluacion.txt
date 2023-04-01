@@ -1,0 +1,5 @@
+1 seleccionar los registros cuyo estado sea entregado y en proceso entrega 
+2 seleccionar los registros que tengan el id envio 41,23,40,67,36
+3 seleccionar los registros cuya direccion empiece con suite
+4 seleccionar el id envio, el peso y el estado cuyo estado sea no entregado 
+5 actualizar los registros que tengan id envio entre 20 y 50 
